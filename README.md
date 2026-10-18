@@ -1,10 +1,4 @@
-import pypandoc
 
-guide = r"""# xStocks Solana Daily Claim Helper
-
-A small, experimental Python helper for attempting xStocks daily multiplier claims with multiple Solana wallets.
-
-> **Important:** This project is unofficial and provided as-is. The direct API claim method and Solana signature format have not been independently verified for every account. Test with one wallet first, check the official xStocks site for the result, and follow the platform's terms. This tool does **not** bypass CAPTCHA. If the official site requires CAPTCHA or another verification step, complete it there.
 
 ## What the files do
 
